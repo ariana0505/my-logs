@@ -1,4 +1,5 @@
 # Creando una feature
 
-## Objetivos de la clase 🎯
+---
 
+## Objetivos de la clase 🎯

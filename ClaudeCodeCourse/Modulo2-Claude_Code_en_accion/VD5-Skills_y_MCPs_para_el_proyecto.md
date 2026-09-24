@@ -1,4 +1,5 @@
 # Skills y MCPs para el proyecto
 
-## Objetivos de la clase 🎯
+---
 
+## Objetivos de la clase 🎯

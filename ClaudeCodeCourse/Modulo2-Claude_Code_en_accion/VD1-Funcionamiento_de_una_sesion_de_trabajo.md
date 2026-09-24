@@ -1,4 +1,5 @@
 # Funcionamiento de una sesión de trabajo
 
-## Objetivos de la clase 🎯
+---
 
+## Objetivos de la clase 🎯

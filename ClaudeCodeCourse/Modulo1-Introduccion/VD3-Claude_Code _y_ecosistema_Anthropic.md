@@ -1,7 +1,10 @@
--> El objetivo principal es:
-Aprender sobre las diferentes plataformas de Anthropic
+# El objetivo principal es:
 
-Enfoques:
+Aprender sobre las diferentes plataformas de Anthropic.
+
+---
+
+## Enfoques:
 
 - AI Agents
 - Coding
@@ -11,7 +14,9 @@ Enfoques:
 - Salud
 - Seguridad
 
-Productos:
+---
+
+## Productos:
 
 - Claude Code y Claude Code Enterprise
 - Claude Cowork

@@ -1,4 +1,5 @@
 # Plan Mode vs Spec-Driven Development
 
-## Objetivos de la clase 🎯
+---
 
+## Objetivos de la clase 🎯
