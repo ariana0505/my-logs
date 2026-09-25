@@ -1,6 +1,6 @@
 Fecha: 24/09/2026
 Entrega de P1: 27/09/2026
-Estado: Pendiente de elegir una propuesta
+Estado: Propuesta 1 aprobada — Registro de pagos por Yape para el minimarket
 
 ———
 
