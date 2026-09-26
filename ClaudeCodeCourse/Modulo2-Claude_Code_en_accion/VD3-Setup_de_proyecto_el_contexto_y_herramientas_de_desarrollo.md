@@ -1,3 +1,5 @@
+Fecha : 25/09/26
+
 # Setup de proyecto, el contexto y herramientas de desarrollo
 
 ---
