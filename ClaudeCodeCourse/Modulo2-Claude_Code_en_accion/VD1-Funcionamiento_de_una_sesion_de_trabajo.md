@@ -1,3 +1,5 @@
+Fecha : 24/09/26
+
 # Funcionamiento de una sesión de trabajo
 
 ---
