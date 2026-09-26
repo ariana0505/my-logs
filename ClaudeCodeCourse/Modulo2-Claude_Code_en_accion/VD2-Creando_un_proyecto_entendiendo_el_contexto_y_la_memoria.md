@@ -1,3 +1,5 @@
+Fecha : 25/09/26
+
 # Creando un proyecto, entendiendo el contexto y la memoria
 
 ---
