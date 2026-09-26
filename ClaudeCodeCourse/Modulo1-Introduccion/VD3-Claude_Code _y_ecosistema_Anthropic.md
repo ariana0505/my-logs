@@ -1,3 +1,4 @@
+Fecha : 22/09/26
 # El objetivo principal es:
 
 Aprender sobre las diferentes plataformas de Anthropic.
